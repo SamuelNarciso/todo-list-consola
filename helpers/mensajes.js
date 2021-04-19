@@ -5,7 +5,7 @@ require('colors');
 const mostrarMenu = () => {
     return new Promise( (res, rej) => {
 
-        console.clear();
+        // console.clear();
 
         console.log('~~~~~~~~~~~~~~~~~~~~~~'.cyan.bold)
         console.log('Seleccione una opcion'.bold)
